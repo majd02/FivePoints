@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<body>
+<h3>Lettre d'affectation</h3>
+<h1>L'etudiant(e) : $name</h1>
+<h1>Inscrit(e) en : $inscri</h1>
+<h2>$lettre</h2>
+This file is generated on : $genDateTime
+</body>
+</html>

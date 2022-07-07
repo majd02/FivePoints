@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<body>
+<h3>Convetion</h3>
+<h1>L'etudiant(e) : $name</h1>
+<h1>Inscrit(e) en : $inscri</h1>
+<h2>Societe: $societe</h2>
+<h3>Address: $address</h3>
+<h3>Represente(e) : $representant</h3>
+<h3>Address electronique : $mail</h3>
+This file is generated on : $genDateTime
+</body>
+</html>

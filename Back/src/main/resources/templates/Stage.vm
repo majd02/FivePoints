@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<body>
+<h3>Objet : Demande de stage Obligatoire</h3>
+<h1>L'etudiant(e) : $name</h1>
+<h1>Inscrit(e) en : $inscri</h1>
+
+This file is generated on : $genDateTime
+</body>
+</html>
